@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jjacob12
 - 👀 I’m interested in genomics
-- 🌱 I’m currently learning trnascriptomics
+- 🌱 I’m currently learning transcriptomics
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
